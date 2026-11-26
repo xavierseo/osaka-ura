@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://osaka-ura.com/sitemap.xml
