@@ -8,6 +8,16 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://osaka-ura.com/"/>
   </url>
   <url>
+    <loc>https://osaka-ura.com/mentions-legales.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://osaka-ura.com/mentions-legales.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://osaka-ura.com/en/legal-notice.html"/>
+  </url>
+  <url>
+    <loc>https://osaka-ura.com/en/legal-notice.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://osaka-ura.com/mentions-legales.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://osaka-ura.com/en/legal-notice.html"/>
+  </url>
+  <url>
     <loc>https://osaka-ura.com/en/</loc>
     <xhtml:link rel="alternate" hreflang="fr" href="https://osaka-ura.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://osaka-ura.com/en/"/>
